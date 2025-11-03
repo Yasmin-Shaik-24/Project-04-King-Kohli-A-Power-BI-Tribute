@@ -99,8 +99,8 @@ Year range slicer lets users explore specific time periods dynamically.
 ## 👩‍💻 **Author**
 
 **Yasmin Shaik**  
-📧 [your.email@example.com]  
-💼 [LinkedIn Profile Link]  
+📧 yasminshaik681@gmail.com 
+💼 www.linkedin.com/in/shaik-yasmin-963663268  
 
 ---
 
